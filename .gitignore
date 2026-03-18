@@ -1,0 +1,10 @@
+# база данных
+db/db.db
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+
+# переменные окружения
+.env
